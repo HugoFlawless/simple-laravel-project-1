@@ -9,7 +9,7 @@
 
 ## What this app do?
 well is just a simple app to manage products and categories of products they have a realationship in database.
-You can add, edit adn delete products and categories. You can show them too, of course.
+You can add, edit, delete and show products & categories. 
 
 ## About Laravel
 
