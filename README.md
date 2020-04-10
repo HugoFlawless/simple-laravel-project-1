@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## What this app do?
+well is just a simple app to manage products and categories of products they have a realationship in database.
+You can add, edit adn delete products and categories. You can show them too, of course.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
